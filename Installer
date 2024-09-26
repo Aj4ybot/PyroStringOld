@@ -1,4 +1,4 @@
 pyaes
-pyrogram==2.0.106
+pyrogram
 pysocks
 tgcrypto
